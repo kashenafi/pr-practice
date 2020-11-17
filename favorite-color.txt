@@ -1,0 +1,1 @@
+puts "teal is one of my favorite colors!"
